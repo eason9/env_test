@@ -12,8 +12,8 @@ This python script can be used to map anaconda environments to pip environments 
 #%% Packages & Data
 import re
 
-read = r"C:\Users\Garrett\requirements.txt"
-write = r"C:\Users\Garrett\requirements2.txt"
+read = r"/home/garrett/requirements.txt"
+write = r"/home/garrett/requirements2.txt"
 #%%
 with open(read, 'r') as file:
     data = file.read()
