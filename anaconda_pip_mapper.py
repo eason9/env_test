@@ -5,6 +5,9 @@ Created on Fri Jul 24 15:18:11 2020
 @author: Garrett
 # To get anaconda env use: conda list -e > requirements.txt
 # Note can only map envs within the same os system (e.g. can map windows package versions to linux package versions)
+# https://beta.deepnote.com/
+
+This python script can be used to map anaconda environments to pip environments for loading into deepnote.
 """
 #%% Packages & Data
 import re
