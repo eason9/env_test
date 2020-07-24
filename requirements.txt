@@ -11,10 +11,10 @@ attrs==19.3.0
 autopep8==1.5.3
 babel==2.8.0
 backcall==0.2.0
-backports==1.0
-backports.functools_lru_cache==1.6.1
-backports.tempfile==1.0
-backports.weakref==1.0.post1
+#backports==1.0
+#backports.functools_lru_cache==1.6.1
+#backports.tempfile==1.0
+#backports.weakref==1.0.post1
 beautifulsoup4==4.8.1
 bleach==3.1.5
 brotlipy==0.7.0
