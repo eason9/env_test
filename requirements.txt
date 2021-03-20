@@ -68,7 +68,7 @@ isort==4.3.21
 itsdangerous==1.1.0
 jedi==0.17.1
 jeepney==0.4.3
-jinja2==2.11.2
+jinja2==2.11.3
 joblib==0.14.0
 jpeg==9d
 jsonschema==3.2.0
