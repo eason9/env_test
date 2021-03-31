@@ -97,7 +97,7 @@ libxcb==1.13
 libxml2==2.9.9
 libxslt==1.1.32
 llvm-openmp==10.0.0
-lxml==4.4.1
+lxml==4.6.3
 lz4-c==1.9.2
 markupsafe==1.1.1
 matplotlib==3.1.1
