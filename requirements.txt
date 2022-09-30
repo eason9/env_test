@@ -69,7 +69,7 @@ itsdangerous==1.1.0
 jedi==0.17.1
 jeepney==0.4.3
 jinja2==2.11.2
-joblib==0.14.0
+joblib==1.2.0
 jpeg==9d
 jsonschema==3.2.0
 jupyter_client==6.1.6
